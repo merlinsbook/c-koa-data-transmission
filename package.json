@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple example for a graphql-api-server.",
   "main": "index.js",
-  "repository": "https://github.com/merlinsbook/graphql-api-server.git",
+  "repository": "https://github.com/merlinsbook/c-koa-data-transmission.git",
   "author": "David Tolbert <npm.merlin@gmail.com>",
   "license": "MIT",
   "scripts": {
