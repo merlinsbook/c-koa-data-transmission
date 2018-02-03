@@ -1,0 +1,14 @@
+{
+  "name": "transmission-test",
+  "version": "0.0.1",
+  "description": "playground",
+  "main": "index.js",
+  "repository": "https://github.com/merlinsbook/graphql-api-server.git",
+  "author": "David Tolbert <npm.merlin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "g++ funcs.c main.c -lcurl",
+    "transmit": "./a.out",
+    "start": "yarn run build && yarn run transmit"
+  }
+}
